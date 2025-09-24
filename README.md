@@ -17,7 +17,7 @@ How has income inequality evolved in Bangladesh between 1985 and 2010, as measur
 - **Indicators**:
   - Income share held by the highest 10% of the population (%)
   - Income share held by the lowest 10% of the population (%)
-- **Coverage**: Bahrain, 1960–2010
+- **Coverage**: Bangladesh, 1985–2010
 - **Notes**: National-level data only
 
 ## 3. Method
