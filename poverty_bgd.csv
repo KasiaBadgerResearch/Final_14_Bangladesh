@@ -1,0 +1,171 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bangladesh,BGD,2022,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,51.50833
+Bangladesh,BGD,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,51.86921
+Bangladesh,BGD,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,52.51337
+Bangladesh,BGD,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.15752
+Bangladesh,BGD,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.80168
+Bangladesh,BGD,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,54.44584
+Bangladesh,BGD,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,55.08999
+Bangladesh,BGD,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,55.73415
+Bangladesh,BGD,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,56.3783
+Bangladesh,BGD,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,57.02246
+Bangladesh,BGD,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,57.66662
+Bangladesh,BGD,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,58.31077
+Bangladesh,BGD,2022,Income share held by second 20%,SI.DST.02ND.20,12.2
+Bangladesh,BGD,2016,Income share held by second 20%,SI.DST.02ND.20,12.4
+Bangladesh,BGD,2010,Income share held by second 20%,SI.DST.02ND.20,12.5
+Bangladesh,BGD,2005,Income share held by second 20%,SI.DST.02ND.20,12.2
+Bangladesh,BGD,2000,Income share held by second 20%,SI.DST.02ND.20,12.1
+Bangladesh,BGD,1995,Income share held by second 20%,SI.DST.02ND.20,12.5
+Bangladesh,BGD,1991,Income share held by second 20%,SI.DST.02ND.20,13.6
+Bangladesh,BGD,1988,Income share held by second 20%,SI.DST.02ND.20,13.4
+Bangladesh,BGD,1985,Income share held by second 20%,SI.DST.02ND.20,13.8
+Bangladesh,BGD,1983,Income share held by second 20%,SI.DST.02ND.20,14.3
+Bangladesh,BGD,2022,Income share held by third 20%,SI.DST.03RD.20,16
+Bangladesh,BGD,2016,Income share held by third 20%,SI.DST.03RD.20,16.1
+Bangladesh,BGD,2010,Income share held by third 20%,SI.DST.03RD.20,16
+Bangladesh,BGD,2005,Income share held by third 20%,SI.DST.03RD.20,15.6
+Bangladesh,BGD,2000,Income share held by third 20%,SI.DST.03RD.20,15.6
+Bangladesh,BGD,1995,Income share held by third 20%,SI.DST.03RD.20,15.7
+Bangladesh,BGD,1991,Income share held by third 20%,SI.DST.03RD.20,17.3
+Bangladesh,BGD,1988,Income share held by third 20%,SI.DST.03RD.20,17
+Bangladesh,BGD,1985,Income share held by third 20%,SI.DST.03RD.20,17.2
+Bangladesh,BGD,1983,Income share held by third 20%,SI.DST.03RD.20,17.9
+Bangladesh,BGD,2022,Income share held by fourth 20%,SI.DST.04TH.20,21.5
+Bangladesh,BGD,2016,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Bangladesh,BGD,2010,Income share held by fourth 20%,SI.DST.04TH.20,21.2
+Bangladesh,BGD,2005,Income share held by fourth 20%,SI.DST.04TH.20,20.9
+Bangladesh,BGD,2000,Income share held by fourth 20%,SI.DST.04TH.20,21
+Bangladesh,BGD,1995,Income share held by fourth 20%,SI.DST.04TH.20,20.6
+Bangladesh,BGD,1991,Income share held by fourth 20%,SI.DST.04TH.20,22
+Bangladesh,BGD,1988,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Bangladesh,BGD,1985,Income share held by fourth 20%,SI.DST.04TH.20,21.7
+Bangladesh,BGD,1983,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+Bangladesh,BGD,2022,Income share held by highest 20%,SI.DST.05TH.20,42
+Bangladesh,BGD,2016,Income share held by highest 20%,SI.DST.05TH.20,41.4
+Bangladesh,BGD,2010,Income share held by highest 20%,SI.DST.05TH.20,41.5
+Bangladesh,BGD,2005,Income share held by highest 20%,SI.DST.05TH.20,42.5
+Bangladesh,BGD,2000,Income share held by highest 20%,SI.DST.05TH.20,42.7
+Bangladesh,BGD,1995,Income share held by highest 20%,SI.DST.05TH.20,42.4
+Bangladesh,BGD,1991,Income share held by highest 20%,SI.DST.05TH.20,37.4
+Bangladesh,BGD,1988,Income share held by highest 20%,SI.DST.05TH.20,38.6
+Bangladesh,BGD,1985,Income share held by highest 20%,SI.DST.05TH.20,37.2
+Bangladesh,BGD,1983,Income share held by highest 20%,SI.DST.05TH.20,35.8
+Bangladesh,BGD,2022,Income share held by highest 10%,SI.DST.10TH.10,27.4
+Bangladesh,BGD,2016,Income share held by highest 10%,SI.DST.10TH.10,26.8
+Bangladesh,BGD,2010,Income share held by highest 10%,SI.DST.10TH.10,26.9
+Bangladesh,BGD,2005,Income share held by highest 10%,SI.DST.10TH.10,28
+Bangladesh,BGD,2000,Income share held by highest 10%,SI.DST.10TH.10,27.9
+Bangladesh,BGD,1995,Income share held by highest 10%,SI.DST.10TH.10,28.1
+Bangladesh,BGD,1991,Income share held by highest 10%,SI.DST.10TH.10,23.3
+Bangladesh,BGD,1988,Income share held by highest 10%,SI.DST.10TH.10,24.6
+Bangladesh,BGD,1985,Income share held by highest 10%,SI.DST.10TH.10,23.4
+Bangladesh,BGD,1983,Income share held by highest 10%,SI.DST.10TH.10,21.9
+Bangladesh,BGD,2022,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.1
+Bangladesh,BGD,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.1
+Bangladesh,BGD,2010,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.1
+Bangladesh,BGD,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.3
+Bangladesh,BGD,2000,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.2
+Bangladesh,BGD,1995,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.1
+Bangladesh,BGD,1991,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.5
+Bangladesh,BGD,1988,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.5
+Bangladesh,BGD,1985,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,3.5
+Bangladesh,BGD,1983,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.8
+Bangladesh,BGD,2022,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Bangladesh,BGD,2016,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Bangladesh,BGD,2010,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Bangladesh,BGD,2005,Income share held by lowest 10%,SI.DST.FRST.10,3.8
+Bangladesh,BGD,2000,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Bangladesh,BGD,1995,Income share held by lowest 10%,SI.DST.FRST.10,3.8
+Bangladesh,BGD,1991,Income share held by lowest 10%,SI.DST.FRST.10,4.1
+Bangladesh,BGD,1988,Income share held by lowest 10%,SI.DST.FRST.10,4.2
+Bangladesh,BGD,1985,Income share held by lowest 10%,SI.DST.FRST.10,4.5
+Bangladesh,BGD,1983,Income share held by lowest 10%,SI.DST.FRST.10,4.1
+Bangladesh,BGD,2022,Income share held by lowest 20%,SI.DST.FRST.20,8.2
+Bangladesh,BGD,2016,Income share held by lowest 20%,SI.DST.FRST.20,8.6
+Bangladesh,BGD,2010,Income share held by lowest 20%,SI.DST.FRST.20,8.9
+Bangladesh,BGD,2005,Income share held by lowest 20%,SI.DST.FRST.20,8.8
+Bangladesh,BGD,2000,Income share held by lowest 20%,SI.DST.FRST.20,8.6
+Bangladesh,BGD,1995,Income share held by lowest 20%,SI.DST.FRST.20,8.8
+Bangladesh,BGD,1991,Income share held by lowest 20%,SI.DST.FRST.20,9.6
+Bangladesh,BGD,1988,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Bangladesh,BGD,1985,Income share held by lowest 20%,SI.DST.FRST.20,10
+Bangladesh,BGD,1983,Income share held by lowest 20%,SI.DST.FRST.20,9.7
+Bangladesh,BGD,2022,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,8
+Bangladesh,BGD,2016,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,19.5
+Bangladesh,BGD,2010,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,25.1
+Bangladesh,BGD,2005,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32.3
+Bangladesh,BGD,2000,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,41.4
+Bangladesh,BGD,1995,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,43.4
+Bangladesh,BGD,1991,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,51.2
+Bangladesh,BGD,1988,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,51.1
+Bangladesh,BGD,1985,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,41.4
+Bangladesh,BGD,1983,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,47.1
+Bangladesh,BGD,2022,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,1.4
+Bangladesh,BGD,2016,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,3.8
+Bangladesh,BGD,2010,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,5.1
+Bangladesh,BGD,2005,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,6.9
+Bangladesh,BGD,2000,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,10.3
+Bangladesh,BGD,1995,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,10.6
+Bangladesh,BGD,1991,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,14.1
+Bangladesh,BGD,1988,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,14
+Bangladesh,BGD,1985,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,9.7
+Bangladesh,BGD,1983,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,12.6
+Bangladesh,BGD,2022,Gini index,SI.POV.GINI,33.4
+Bangladesh,BGD,2016,Gini index,SI.POV.GINI,32.4
+Bangladesh,BGD,2010,Gini index,SI.POV.GINI,32.1
+Bangladesh,BGD,2005,Gini index,SI.POV.GINI,33.2
+Bangladesh,BGD,2000,Gini index,SI.POV.GINI,33.4
+Bangladesh,BGD,1995,Gini index,SI.POV.GINI,32.9
+Bangladesh,BGD,1991,Gini index,SI.POV.GINI,27.6
+Bangladesh,BGD,1988,Gini index,SI.POV.GINI,28.8
+Bangladesh,BGD,1985,Gini index,SI.POV.GINI,26.9
+Bangladesh,BGD,1983,Gini index,SI.POV.GINI,25.9
+Bangladesh,BGD,2022,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,24.4
+Bangladesh,BGD,2016,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,44.7
+Bangladesh,BGD,2010,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,52.1
+Bangladesh,BGD,2005,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,59
+Bangladesh,BGD,2000,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,66.5
+Bangladesh,BGD,1995,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,69.6
+Bangladesh,BGD,1991,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,77.8
+Bangladesh,BGD,1988,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,77.5
+Bangladesh,BGD,1985,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,71.9
+Bangladesh,BGD,1983,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,77.3
+Bangladesh,BGD,2022,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,5.5
+Bangladesh,BGD,2016,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,11.9
+Bangladesh,BGD,2010,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,14.9
+Bangladesh,BGD,2005,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,18.3
+Bangladesh,BGD,2000,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,23.2
+Bangladesh,BGD,1995,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,24.1
+Bangladesh,BGD,1991,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,29
+Bangladesh,BGD,1988,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,28.9
+Bangladesh,BGD,1985,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,23.5
+Bangladesh,BGD,1983,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,27.3
+Bangladesh,BGD,2022,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.7
+Bangladesh,BGD,2022,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,72.2
+Bangladesh,BGD,2016,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,85.7
+Bangladesh,BGD,2010,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,88.6
+Bangladesh,BGD,2005,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,90
+Bangladesh,BGD,2000,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,92.3
+Bangladesh,BGD,1995,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,93.4
+Bangladesh,BGD,1991,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,97.2
+Bangladesh,BGD,1988,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,96.6
+Bangladesh,BGD,1985,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,96.2
+Bangladesh,BGD,1983,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,97.5
+Bangladesh,BGD,2022,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,28.1
+Bangladesh,BGD,2016,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,40.8
+Bangladesh,BGD,2010,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,44.9
+Bangladesh,BGD,2005,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,48.4
+Bangladesh,BGD,2000,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,52.8
+Bangladesh,BGD,1995,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,54.3
+Bangladesh,BGD,1991,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,59.9
+Bangladesh,BGD,1988,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,59.5
+Bangladesh,BGD,1985,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,55.8
+Bangladesh,BGD,1983,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,59.2
+Bangladesh,BGD,2016,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,2.96
+Bangladesh,BGD,2010,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,2.73
+Bangladesh,BGD,2016,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,1.35
+Bangladesh,BGD,2016,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,5.62
+Bangladesh,BGD,2010,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,5.13
+Bangladesh,BGD,2016,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,1.54
